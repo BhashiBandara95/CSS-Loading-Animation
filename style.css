@@ -1,0 +1,22 @@
+/* body */
+body{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to right, rgb(130, 131, 219), rgb(223, 96, 149));
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* Loading Sections */
+.loading{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+    border-radius: 20%;
+    border-top: 10px solid #14944a;
+    position: relative;
+}
